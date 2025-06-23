@@ -4,7 +4,7 @@
   "version": "0.40.0",
   "meta": {
     "createdDate": "2025-06-11T14:12:18.117Z",
-    "lastModifiedDate": "2025-06-12T22:10:29.615Z"
+    "lastModifiedDate": "2025-06-23T20:35:47.317Z"
   },
   "name": "Tidebreaker Campaign",
   "startTime": "2025-07-01T12:00:00+02:00",
@@ -41,84 +41,123 @@
                   "subUnits": [
                     {
                       "id": "BiRnUM4GRI",
-                      "name": "1st Brigade Force",
+                      "name": "[Zach] 19th Light Assault Brigade",
                       "sidc": "10031020181210000000",
                       "subUnits": [
                         {
                           "id": "dB51MiXTRG",
-                          "name": "Spec 1",
-                          "sidc": "10031020161210000000",
+                          "name": "19th Stryker Battalion",
+                          "sidc": "10031020161204020000",
                           "subUnits": [],
                           "symbolOptions": {},
+                          "shortName": "19th Stryk Bat.",
+                          "reinforcedStatus": "None",
                           "state": []
                         },
                         {
                           "id": "sO61EpuevH",
-                          "name": "Spec 2",
-                          "sidc": "10031020161210000000",
+                          "name": "19th SOF Battalion",
+                          "sidc": "10031020161218000000",
                           "subUnits": [],
                           "symbolOptions": {},
+                          "shortName": "19th SOF Bat.",
+                          "reinforcedStatus": "None",
                           "state": []
                         }
                       ],
                       "symbolOptions": {},
                       "reinforcedStatus": "None",
-                      "shortName": "1st Brig.",
-                      "state": []
+                      "shortName": "19th Light Assault",
+                      "state": [
+                        {
+                          "id": "Pdq1ITm1Yi",
+                          "t": "2025-07-01T12:00:00+02:00",
+                          "location": [
+                            26.15441162063705,
+                            54.48869660984599
+                          ]
+                        }
+                      ]
                     },
                     {
                       "id": "Kpj7YIxVqo",
-                      "name": "2nd Brigade Force",
+                      "name": "[Waylooker] Brigade Name TBD",
                       "sidc": "10031020181210000000",
                       "subUnits": [
                         {
                           "id": "6g5njcQOAY",
-                          "name": "Spec 1",
-                          "sidc": "10031020161210000000",
+                          "name": "Airborne Battalion",
+                          "sidc": "10031020161206000000",
                           "subUnits": [],
                           "symbolOptions": {},
+                          "shortName": "Airborne Bat.",
+                          "reinforcedStatus": "None",
                           "state": []
                         },
                         {
                           "id": "uAsMWCmb7M",
-                          "name": "Spec 2",
-                          "sidc": "10031020161210000000",
+                          "name": "Stryker Battalion",
+                          "sidc": "10031020161204020000",
                           "subUnits": [],
                           "symbolOptions": {},
+                          "shortName": "Stryker Bat.",
+                          "reinforcedStatus": "None",
                           "state": []
                         }
                       ],
                       "symbolOptions": {},
                       "reinforcedStatus": "None",
                       "shortName": "2nd Brig.",
-                      "state": []
+                      "state": [
+                        {
+                          "id": "Jl8mE35mpy",
+                          "t": "2025-07-01T12:00:00+02:00",
+                          "location": [
+                            26.046419309187094,
+                            54.46167465664206
+                          ]
+                        }
+                      ]
                     },
                     {
                       "id": "y6YFPpvZbg",
-                      "name": "3rd Brigade Force",
-                      "sidc": "10031020181210000000",
+                      "name": "[Ranger] 25th Special Operations Wing",
+                      "sidc": "10031020181201000000",
                       "subUnits": [
                         {
                           "id": "yLit5J3mpS",
-                          "name": "Spec 1",
-                          "sidc": "10031020161210000000",
+                          "name": "401/402 Special Tactics Squadrons",
+                          "sidc": "10031020161208000000",
                           "subUnits": [],
                           "symbolOptions": {},
+                          "shortName": "401/402 S.T.S. ",
+                          "reinforcedStatus": "None",
                           "state": []
                         },
                         {
                           "id": "TpGjZcsCPg",
-                          "name": "Spec 2",
-                          "sidc": "10031020161210000000",
+                          "name": "522nd Special Operations Squadron",
+                          "sidc": "10031020161218000000",
                           "subUnits": [],
                           "symbolOptions": {},
+                          "shortName": "522nd S.O.S.",
+                          "reinforcedStatus": "None",
                           "state": []
                         }
                       ],
                       "symbolOptions": {},
                       "reinforcedStatus": "None",
-                      "shortName": "3rd Brig.",
-                      "state": []
+                      "shortName": "25th S.O.W.",
+                      "state": [
+                        {
+                          "id": "1ehsS8AesS",
+                          "t": "2025-07-01T12:00:00+02:00",
+                          "location": [
+                            26.34100329236247,
+                            54.357093135237704
+                          ]
+                        }
+                      ]
                     }
                   ],
                   "symbolOptions": {},
@@ -141,29 +180,33 @@
                   "subUnits": [
                     {
                       "id": "ro8GLeMYJD",
-                      "name": "4th Brigade Force",
+                      "name": "[Sgteddy] Raider BDE",
                       "sidc": "10031020181210000000",
                       "subUnits": [
                         {
                           "id": "fSTYP54TFz",
-                          "name": "Spec 1",
-                          "sidc": "10031020161210000000",
+                          "name": "Armor Battalion",
+                          "sidc": "10031020161205000000",
                           "subUnits": [],
                           "symbolOptions": {},
+                          "shortName": "Armor Bat.",
+                          "reinforcedStatus": "None",
                           "state": []
                         },
                         {
                           "id": "FHVeZdetL9",
-                          "name": "Spec 2",
-                          "sidc": "10031020161210000000",
+                          "name": "SOF Battalion",
+                          "sidc": "10031020161218000000",
                           "subUnits": [],
                           "symbolOptions": {},
+                          "shortName": "SOF Bat.",
+                          "reinforcedStatus": "None",
                           "state": []
                         }
                       ],
                       "symbolOptions": {},
                       "reinforcedStatus": "None",
-                      "shortName": "4th Brig.",
+                      "shortName": "Raider BDE",
                       "state": []
                     },
                     {
@@ -1029,7 +1072,187 @@
     {
       "name": "Features",
       "id": "iOmAj3j28i",
-      "features": []
+      "features": [
+        {
+          "type": "Feature",
+          "id": "ZdrV5nd2o6",
+          "meta": {
+            "type": "Point",
+            "name": "Security Operations",
+            "description": "",
+            "externalUrl": "",
+            "shortName": "Security Operations"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              26.40703855807292,
+              54.48467897419442
+            ]
+          },
+          "style": {
+            "marker-size": "large",
+            "marker-symbol": "star",
+            "fill": "#f43f5e",
+            "stroke": "#f43f5e",
+            "marker-color": "#f43f5e"
+          },
+          "properties": {}
+        },
+        {
+          "type": "Feature",
+          "id": "Iw2DTfRAqF",
+          "properties": {},
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  26.468962344780312,
+                  54.484663151425536
+                ],
+                [
+                  26.4677829225675,
+                  54.49168169856157
+                ],
+                [
+                  26.464267946677573,
+                  54.498431663438716
+                ],
+                [
+                  26.458551487561607,
+                  54.50465345395729
+                ],
+                [
+                  26.45085255044791,
+                  54.5101076781541
+                ],
+                [
+                  26.441466762445355,
+                  54.514584388349135
+                ],
+                [
+                  26.430755048614518,
+                  54.51791120188666
+                ],
+                [
+                  26.41912972639506,
+                  54.5199599783719
+                ],
+                [
+                  26.40703855807292,
+                  54.520651788743415
+                ],
+                [
+                  26.39494738975078,
+                  54.5199599783719
+                ],
+                [
+                  26.383322067531324,
+                  54.51791120188666
+                ],
+                [
+                  26.372610353700484,
+                  54.514584388349135
+                ],
+                [
+                  26.363224565697934,
+                  54.5101076781541
+                ],
+                [
+                  26.355525628584235,
+                  54.50465345395729
+                ],
+                [
+                  26.34980916946827,
+                  54.498431663438716
+                ],
+                [
+                  26.34629419357834,
+                  54.49168169856157
+                ],
+                [
+                  26.34511477136553,
+                  54.484663151425536
+                ],
+                [
+                  26.346315040170854,
+                  54.47764580872461
+                ],
+                [
+                  26.349847688956668,
+                  54.47089927378907
+                ],
+                [
+                  26.355575956737056,
+                  54.46468261654264
+                ],
+                [
+                  26.363279040518247,
+                  54.45923444745585
+                ],
+                [
+                  26.37266068189071,
+                  54.454763792373804
+                ],
+                [
+                  26.383360587072616,
+                  54.45144211211549
+                ],
+                [
+                  26.3949682363807,
+                  54.44939676557891
+                ],
+                [
+                  26.40703855807292,
+                  54.44870615964544
+                ],
+                [
+                  26.419108879765144,
+                  54.44939676557891
+                ],
+                [
+                  26.430716529073223,
+                  54.45144211211549
+                ],
+                [
+                  26.441416434255128,
+                  54.454763792373804
+                ],
+                [
+                  26.450798075627596,
+                  54.45923444745585
+                ],
+                [
+                  26.458501159408783,
+                  54.46468261654264
+                ],
+                [
+                  26.464229427189174,
+                  54.47089927378907
+                ],
+                [
+                  26.46776207597499,
+                  54.47764580872461
+                ],
+                [
+                  26.468962344780312,
+                  54.484663151425536
+                ]
+              ]
+            ]
+          },
+          "meta": {
+            "type": "Polygon",
+            "name": "Security Support Operations "
+          },
+          "style": {
+            "stroke": "#f43f5e",
+            "fill": "#eab308",
+            "fill-opacity": 0.15
+          }
+        }
+      ]
     }
   ],
   "events": [
