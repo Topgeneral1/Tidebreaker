@@ -1,12 +1,12 @@
 {
-  "id": "Lv4bNFWSTJ",
+  "id": "K7Tzt8hYMu",
   "type": "ORBAT-mapper",
   "version": "0.40.0",
   "meta": {
     "createdDate": "2025-06-11T14:12:18.117Z",
-    "lastModifiedDate": "2025-07-02T16:51:13.295Z",
-    "exportedFrom": "QH9qByMx67",
-    "exportedDate": "2025-07-02T16:51:13.296Z"
+    "lastModifiedDate": "2025-07-07T16:43:49.056Z",
+    "exportedFrom": "Lv4bNFWSTJ",
+    "exportedDate": "2025-07-07T16:43:49.058Z"
   },
   "name": "Tidebreaker Campaign",
   "startTime": 1751364000000,
@@ -79,44 +79,52 @@
                       ],
                       "symbolOptions": {},
                       "reinforcedStatus": "None",
-                      "shortName": "19th Light Assault BDE",
+                      "shortName": "[Zach] 19th Light Assault BDE",
                       "_pid": "XHpdOAOsVS",
                       "_isOpen": false,
                       "_gid": "L0HUP1cmuA",
                       "_sid": "kYLDmXKMIo",
                       "_state": {
-                        "id": "Pdq1ITm1Yi",
-                        "t": 1751364000000,
+                        "id": "5KYCqd7Tqh",
+                        "t": 1783004544000,
                         "location": [
-                          26.15441162063705,
-                          54.48869660984599
+                          26.308003768375468,
+                          54.51522039822461
                         ]
                       },
                       "state": [
                         {
-                          "id": "Pdq1ITm1Yi",
-                          "t": 1751364000000,
+                          "id": "G3Dlvlx3yb",
+                          "t": 1782995904000,
                           "location": [
-                            26.15441162063705,
-                            54.48869660984599
+                            25.979282526625443,
+                            54.470137020248984
+                          ]
+                        },
+                        {
+                          "id": "5KYCqd7Tqh",
+                          "t": 1783004544000,
+                          "location": [
+                            26.308003768375468,
+                            54.51522039822461
                           ]
                         }
                       ]
                     },
                     {
-                      "id": "Kpj7YIxVqo",
-                      "name": "[Waylooker] Brigade Name TBD",
+                      "id": "Zm8e8ycNK7",
+                      "name": "[Dobby] 2nd Stryker Brigade Combat Team",
                       "sidc": "10031020181210000000",
                       "subUnits": [
                         {
-                          "id": "6g5njcQOAY",
-                          "name": "Airborne Battalion",
-                          "sidc": "10031020161206000000",
+                          "id": "dorfKm2y1A",
+                          "name": "1-32nd Infantry Regiment",
+                          "sidc": "10031020161211000000",
                           "subUnits": [],
                           "symbolOptions": {},
-                          "shortName": "Airborne Bat.",
+                          "shortName": "1-32nd Inf. Regt.",
                           "reinforcedStatus": "None",
-                          "_pid": "Kpj7YIxVqo",
+                          "_pid": "Zm8e8ycNK7",
                           "_isOpen": false,
                           "_gid": "L0HUP1cmuA",
                           "_sid": "kYLDmXKMIo",
@@ -124,14 +132,14 @@
                           "state": []
                         },
                         {
-                          "id": "uAsMWCmb7M",
-                          "name": "Stryker Battalion",
-                          "sidc": "10031020161204020000",
+                          "id": "GSjA1sAgbW",
+                          "name": "26th Marine Exp. Unit",
+                          "sidc": "10031020161211010000",
                           "subUnits": [],
                           "symbolOptions": {},
-                          "shortName": "Stryker Bat.",
+                          "shortName": "26th MEU",
                           "reinforcedStatus": "None",
-                          "_pid": "Kpj7YIxVqo",
+                          "_pid": "Zm8e8ycNK7",
                           "_isOpen": false,
                           "_gid": "L0HUP1cmuA",
                           "_sid": "kYLDmXKMIo",
@@ -141,88 +149,73 @@
                       ],
                       "symbolOptions": {},
                       "reinforcedStatus": "None",
-                      "shortName": "2nd Brig.",
+                      "shortName": "[Dobby] 2nd Stryker BDE",
                       "_pid": "XHpdOAOsVS",
                       "_isOpen": false,
                       "_gid": "L0HUP1cmuA",
                       "_sid": "kYLDmXKMIo",
                       "_state": {
-                        "id": "Jl8mE35mpy",
-                        "t": 1751364000000,
+                        "id": "LDZ40gulpG",
+                        "t": 1783004544000,
                         "location": [
-                          26.046419309187094,
-                          54.46167465664206
+                          26.314238934714233,
+                          54.49283323803877
                         ]
                       },
                       "state": [
                         {
-                          "id": "Jl8mE35mpy",
-                          "t": 1751364000000,
+                          "id": "BWJUog3gS9",
+                          "t": 1782995904000,
                           "location": [
-                            26.046419309187094,
-                            54.46167465664206
+                            26.01312819345985,
+                            54.45529710239833
+                          ]
+                        },
+                        {
+                          "id": "LDZ40gulpG",
+                          "t": 1783004544000,
+                          "location": [
+                            26.314238934714233,
+                            54.49283323803877
                           ]
                         }
                       ]
                     },
                     {
-                      "id": "y6YFPpvZbg",
-                      "name": "[Ranger] 25th Special Operations Wing",
-                      "sidc": "10031020181201000000",
-                      "subUnits": [
-                        {
-                          "id": "yLit5J3mpS",
-                          "name": "401/402 Special Tactics Squadrons",
-                          "sidc": "10031020161208000000",
-                          "subUnits": [],
-                          "symbolOptions": {},
-                          "shortName": "401/402 S.T.S. ",
-                          "reinforcedStatus": "None",
-                          "_pid": "y6YFPpvZbg",
-                          "_isOpen": false,
-                          "_gid": "L0HUP1cmuA",
-                          "_sid": "kYLDmXKMIo",
-                          "_state": null,
-                          "state": []
-                        },
-                        {
-                          "id": "TpGjZcsCPg",
-                          "name": "522nd Special Operations Squadron",
-                          "sidc": "10031020161218000000",
-                          "subUnits": [],
-                          "symbolOptions": {},
-                          "shortName": "522nd S.O.S.",
-                          "reinforcedStatus": "None",
-                          "_pid": "y6YFPpvZbg",
-                          "_isOpen": false,
-                          "_gid": "L0HUP1cmuA",
-                          "_sid": "kYLDmXKMIo",
-                          "_state": null,
-                          "state": []
-                        }
-                      ],
+                      "id": "5WR0jCB2Qr",
+                      "name": " [Pit] Name TBD",
+                      "sidc": "10031020181210000000",
+                      "subUnits": [],
                       "symbolOptions": {},
                       "reinforcedStatus": "None",
-                      "shortName": "25th S.O.W.",
+                      "shortName": "[Pit] TBD",
                       "_pid": "XHpdOAOsVS",
                       "_isOpen": false,
                       "_gid": "L0HUP1cmuA",
                       "_sid": "kYLDmXKMIo",
                       "_state": {
-                        "id": "1ehsS8AesS",
-                        "t": 1751364000000,
+                        "id": "iVaQIVOvZM",
+                        "t": 1783004544000,
                         "location": [
-                          26.34100329236247,
-                          54.357093135237704
+                          26.329910127181286,
+                          54.47067655589112
                         ]
                       },
                       "state": [
                         {
-                          "id": "1ehsS8AesS",
-                          "t": 1751364000000,
+                          "id": "LOlTIas4Cx",
+                          "t": 1782995904000,
                           "location": [
-                            26.34100329236247,
-                            54.357093135237704
+                            26.035331915539754,
+                            54.43524351645286
+                          ]
+                        },
+                        {
+                          "id": "iVaQIVOvZM",
+                          "t": 1783004544000,
+                          "location": [
+                            26.329910127181286,
+                            54.47067655589112
                           ]
                         }
                       ]
@@ -235,20 +228,36 @@
                   "_gid": "L0HUP1cmuA",
                   "_sid": "kYLDmXKMIo",
                   "_state": {
-                    "id": "hBeLCG0Lna",
-                    "t": 1751363100000,
+                    "id": "40njjWQchU",
+                    "t": 1782995904000,
                     "location": [
-                      25.286702364934374,
-                      54.63960208628194
+                      25.911834315949296,
+                      54.42702027079284
                     ]
                   },
                   "state": [
                     {
-                      "id": "hBeLCG0Lna",
-                      "t": 1751363100000,
+                      "id": "GLjVOiBKeB",
+                      "t": 1751366700000,
                       "location": [
-                        25.286702364934374,
-                        54.63960208628194
+                        25.305354276545277,
+                        54.636387401112785
+                      ]
+                    },
+                    {
+                      "id": "n0ONCa5F0g",
+                      "t": 1782970848000,
+                      "location": [
+                        25.672059985890996,
+                        54.53766094426655
+                      ]
+                    },
+                    {
+                      "id": "40njjWQchU",
+                      "t": 1782995904000,
+                      "location": [
+                        25.911834315949296,
+                        54.42702027079284
                       ]
                     }
                   ]
@@ -305,52 +314,6 @@
                       "state": []
                     },
                     {
-                      "id": "Zm8e8ycNK7",
-                      "name": "[Dobby] 2nd Stryker Brigade Combat Team",
-                      "sidc": "10031020181210000000",
-                      "subUnits": [
-                        {
-                          "id": "dorfKm2y1A",
-                          "name": "1-32nd Infantry Regiment",
-                          "sidc": "10031020161211000000",
-                          "subUnits": [],
-                          "symbolOptions": {},
-                          "shortName": "1-32nd Inf. Regt.",
-                          "reinforcedStatus": "None",
-                          "_pid": "Zm8e8ycNK7",
-                          "_isOpen": false,
-                          "_gid": "L0HUP1cmuA",
-                          "_sid": "kYLDmXKMIo",
-                          "_state": null,
-                          "state": []
-                        },
-                        {
-                          "id": "GSjA1sAgbW",
-                          "name": "26th Marine Exp. Unit",
-                          "sidc": "10031020161211010000",
-                          "subUnits": [],
-                          "symbolOptions": {},
-                          "shortName": "26th MEU",
-                          "reinforcedStatus": "None",
-                          "_pid": "Zm8e8ycNK7",
-                          "_isOpen": false,
-                          "_gid": "L0HUP1cmuA",
-                          "_sid": "kYLDmXKMIo",
-                          "_state": null,
-                          "state": []
-                        }
-                      ],
-                      "symbolOptions": {},
-                      "reinforcedStatus": "None",
-                      "shortName": "2nd Stryker BDE",
-                      "_pid": "6qNyLobCED",
-                      "_isOpen": false,
-                      "_gid": "L0HUP1cmuA",
-                      "_sid": "kYLDmXKMIo",
-                      "_state": null,
-                      "state": []
-                    },
-                    {
                       "id": "UC5JmfgHZK",
                       "name": "[Anderp] 1st Marine Expeditionary Force",
                       "sidc": "10031020181210000000",
@@ -395,6 +358,48 @@
                       "_sid": "kYLDmXKMIo",
                       "_state": null,
                       "state": []
+                    },
+                    {
+                      "id": "CNypqzmynj",
+                      "name": " [Bulltrup] Name TBD",
+                      "sidc": "10031020181210000000",
+                      "subUnits": [
+                        {
+                          "id": "nwwX3yldQz",
+                          "name": "Spec 1",
+                          "sidc": "10031020161210000000",
+                          "subUnits": [],
+                          "symbolOptions": {},
+                          "_pid": "CNypqzmynj",
+                          "_isOpen": false,
+                          "_gid": "L0HUP1cmuA",
+                          "_sid": "kYLDmXKMIo",
+                          "_state": null,
+                          "state": []
+                        },
+                        {
+                          "id": "LQC54SINJl",
+                          "name": "Spec 2",
+                          "sidc": "10031020161210000000",
+                          "subUnits": [],
+                          "symbolOptions": {},
+                          "_pid": "CNypqzmynj",
+                          "_isOpen": false,
+                          "_gid": "L0HUP1cmuA",
+                          "_sid": "kYLDmXKMIo",
+                          "_state": null,
+                          "state": []
+                        }
+                      ],
+                      "symbolOptions": {},
+                      "reinforcedStatus": "None",
+                      "shortName": "TBD",
+                      "_pid": "6qNyLobCED",
+                      "_isOpen": false,
+                      "_gid": "L0HUP1cmuA",
+                      "_sid": "kYLDmXKMIo",
+                      "_state": null,
+                      "state": []
                     }
                   ],
                   "symbolOptions": {},
@@ -404,27 +409,43 @@
                   "_gid": "L0HUP1cmuA",
                   "_sid": "kYLDmXKMIo",
                   "_state": {
-                    "id": "oXLqpqylLb",
-                    "t": 1751364000000,
+                    "id": "ML37593kdQ",
+                    "t": 1782995904000,
                     "location": [
-                      25.276604827288253,
-                      54.62639236386525
+                      25.94731926081305,
+                      54.435303764862056
                     ]
                   },
                   "state": [
                     {
-                      "id": "oXLqpqylLb",
-                      "t": 1751364000000,
+                      "id": "0XKSHpAl2I",
+                      "t": 1751366700000,
                       "location": [
-                        25.276604827288253,
-                        54.62639236386525
+                        25.36566100670579,
+                        54.657962004079366
+                      ]
+                    },
+                    {
+                      "id": "V6GnvRZ5jN",
+                      "t": 1782970848000,
+                      "location": [
+                        25.69243505986141,
+                        54.559673814418545
+                      ]
+                    },
+                    {
+                      "id": "ML37593kdQ",
+                      "t": 1782995904000,
+                      "location": [
+                        25.94731926081305,
+                        54.435303764862056
                       ]
                     }
                   ]
                 },
                 {
                   "id": "R9EMddljJu",
-                  "name": "3rd Tactical Division",
+                  "name": "3rd Reserve Tactical Division",
                   "sidc": "10031000211211020000",
                   "subUnits": [
                     {
@@ -470,24 +491,9 @@
                       "_isOpen": false,
                       "_gid": "L0HUP1cmuA",
                       "_sid": "kYLDmXKMIo",
-                      "_state": {
-                        "id": "NIxjJx04XG",
-                        "t": 1751364000000,
-                        "location": [
-                          25.290242947175226,
-                          54.64815906064649
-                        ]
-                      },
-                      "state": [
-                        {
-                          "id": "NIxjJx04XG",
-                          "t": 1751364000000,
-                          "location": [
-                            25.290242947175226,
-                            54.64815906064649
-                          ]
-                        }
-                      ]
+                      "_state": null,
+                      "media": [],
+                      "state": []
                     },
                     {
                       "id": "BfKbNlTjse",
@@ -532,17 +538,17 @@
                       "state": []
                     },
                     {
-                      "id": "CNypqzmynj",
-                      "name": " [Bulltrup] Name TBD",
+                      "id": "61mvnkiseq",
+                      "name": " [Sam] Name TBD",
                       "sidc": "10031020181210000000",
                       "subUnits": [
                         {
-                          "id": "nwwX3yldQz",
+                          "id": "S4fMfx3nVS",
                           "name": "Spec 1",
                           "sidc": "10031020161210000000",
                           "subUnits": [],
                           "symbolOptions": {},
-                          "_pid": "CNypqzmynj",
+                          "_pid": "61mvnkiseq",
                           "_isOpen": false,
                           "_gid": "L0HUP1cmuA",
                           "_sid": "kYLDmXKMIo",
@@ -550,12 +556,12 @@
                           "state": []
                         },
                         {
-                          "id": "LQC54SINJl",
+                          "id": "VksySGisqf",
                           "name": "Spec 2",
                           "sidc": "10031020161210000000",
                           "subUnits": [],
                           "symbolOptions": {},
-                          "_pid": "CNypqzmynj",
+                          "_pid": "61mvnkiseq",
                           "_isOpen": false,
                           "_gid": "L0HUP1cmuA",
                           "_sid": "kYLDmXKMIo",
@@ -572,16 +578,132 @@
                       "_sid": "kYLDmXKMIo",
                       "_state": null,
                       "state": []
+                    },
+                    {
+                      "id": "y6YFPpvZbg",
+                      "name": "[Ranger] 25th Special Operations Wing",
+                      "sidc": "10031020181201000000",
+                      "subUnits": [
+                        {
+                          "id": "yLit5J3mpS",
+                          "name": "401/402 Special Tactics Squadrons",
+                          "sidc": "10031020161208000000",
+                          "subUnits": [],
+                          "symbolOptions": {},
+                          "shortName": "401/402 S.T.S. ",
+                          "reinforcedStatus": "None",
+                          "_pid": "y6YFPpvZbg",
+                          "_isOpen": false,
+                          "_gid": "L0HUP1cmuA",
+                          "_sid": "kYLDmXKMIo",
+                          "_state": null,
+                          "state": []
+                        },
+                        {
+                          "id": "TpGjZcsCPg",
+                          "name": "522nd Special Operations Squadron",
+                          "sidc": "10031020161218000000",
+                          "subUnits": [],
+                          "symbolOptions": {},
+                          "shortName": "522nd S.O.S.",
+                          "reinforcedStatus": "None",
+                          "_pid": "y6YFPpvZbg",
+                          "_isOpen": false,
+                          "_gid": "L0HUP1cmuA",
+                          "_sid": "kYLDmXKMIo",
+                          "_state": null,
+                          "state": []
+                        }
+                      ],
+                      "symbolOptions": {},
+                      "reinforcedStatus": "None",
+                      "shortName": "25th S.O.W.",
+                      "_pid": "R9EMddljJu",
+                      "_isOpen": false,
+                      "_gid": "L0HUP1cmuA",
+                      "_sid": "kYLDmXKMIo",
+                      "_state": null,
+                      "state": []
+                    },
+                    {
+                      "id": "Kpj7YIxVqo",
+                      "name": "[Waylooker] Brigade Name TBD",
+                      "sidc": "10031020181210000000",
+                      "subUnits": [
+                        {
+                          "id": "6g5njcQOAY",
+                          "name": "Airborne Battalion",
+                          "sidc": "10031020161206000000",
+                          "subUnits": [],
+                          "symbolOptions": {},
+                          "shortName": "Airborne Bat.",
+                          "reinforcedStatus": "None",
+                          "_pid": "Kpj7YIxVqo",
+                          "_isOpen": false,
+                          "_gid": "L0HUP1cmuA",
+                          "_sid": "kYLDmXKMIo",
+                          "_state": null,
+                          "state": []
+                        },
+                        {
+                          "id": "uAsMWCmb7M",
+                          "name": "Stryker Battalion",
+                          "sidc": "10031020161204020000",
+                          "subUnits": [],
+                          "symbolOptions": {},
+                          "shortName": "Stryker Bat.",
+                          "reinforcedStatus": "None",
+                          "_pid": "Kpj7YIxVqo",
+                          "_isOpen": false,
+                          "_gid": "L0HUP1cmuA",
+                          "_sid": "kYLDmXKMIo",
+                          "_state": null,
+                          "state": []
+                        }
+                      ],
+                      "symbolOptions": {},
+                      "reinforcedStatus": "None",
+                      "shortName": "2nd Brig.",
+                      "_pid": "R9EMddljJu",
+                      "_isOpen": false,
+                      "_gid": "L0HUP1cmuA",
+                      "_sid": "kYLDmXKMIo",
+                      "_state": null,
+                      "state": []
                     }
                   ],
                   "symbolOptions": {},
-                  "shortName": "3rd Tactical Div.",
+                  "shortName": "3rd Res. Tactical Div.",
                   "_pid": "71A5R3z95r",
                   "_isOpen": true,
                   "_gid": "L0HUP1cmuA",
                   "_sid": "kYLDmXKMIo",
-                  "_state": null,
-                  "state": []
+                  "_state": {
+                    "id": "vnE74Z0kSn",
+                    "t": 1782995904000,
+                    "location": [
+                      25.67980571315326,
+                      54.55381319884381
+                    ]
+                  },
+                  "state": [
+                    {
+                      "id": "ify6nUp68S",
+                      "t": 1751366700000,
+                      "location": [
+                        25.306062637659075,
+                        54.663476681917444
+                      ]
+                    },
+                    {
+                      "id": "vnE74Z0kSn",
+                      "t": 1782995904000,
+                      "location": [
+                        25.67980571315326,
+                        54.55381319884381
+                      ]
+                    }
+                  ]
                 }
               ],
               "symbolOptions": {},
@@ -1505,11 +1627,10 @@
                   "_gid": "6WDKWm0s2v",
                   "_sid": "KIusPePRu7",
                   "_state": {
-                    "id": "mbsvxUb1sg",
-                    "t": 1751363100000,
+                    "t": 1783008900000,
                     "location": [
-                      26.658153536692584,
-                      54.54460237872945
+                      26.49154704150159,
+                      54.5094442356845
                     ]
                   },
                   "state": [
@@ -1519,6 +1640,14 @@
                       "location": [
                         26.658153536692584,
                         54.54460237872945
+                      ]
+                    },
+                    {
+                      "id": "3kwtZ5133F",
+                      "t": 1783008900000,
+                      "location": [
+                        26.49154704150159,
+                        54.5094442356845
                       ]
                     }
                   ]
